@@ -1,5 +1,7 @@
 <template>
-    <div>你好</div>
+    <div>
+        <div>你好啊</div>
+    </div>
 </template>
 <script>
 export default {
